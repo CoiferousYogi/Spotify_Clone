@@ -1,0 +1,8 @@
+.text-overlay {
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  z-index: 2;
+  /* Text z-index, higher than the image */
+}

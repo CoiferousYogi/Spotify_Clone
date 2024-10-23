@@ -1,0 +1,7 @@
+.songImage:hover {
+  opacity: 0.3;
+}
+
+.playPauseButton:hover {
+  z-index: 20;
+}
